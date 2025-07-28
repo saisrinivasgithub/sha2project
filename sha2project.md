@@ -41,7 +41,7 @@ SHA-256 operates on 512-bit blocks and produces a 256-bit output. The algorithm 
 - Compression Loop (64 rounds)
 - Hash Update with Initial Hash Values
 
-![Block Diagram of SHA-256](sha2_block_diagram 1.png)
+![Block Diagram of SHA-256](sha2_block_diagram1.png)
 *Figure 1: Block Diagram of SHA-256 Algorithm*
 
 ![Message Padding and Compression](message padding.jpg)
