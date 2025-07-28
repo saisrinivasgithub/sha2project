@@ -76,7 +76,7 @@ Controls:
 
 Testbenches were written to verify each module using sample test vectors from NIST. Simulation was carried out in Vivado.
 
-![Simulation Waveform](sha2_waveform.png)
+![Simulation Waveform](sha2_waveform1.png)
 *Figure 3: Simulation waveform of SHA-256 Testbench*
 
 ---
