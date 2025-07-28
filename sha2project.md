@@ -129,4 +129,8 @@ if __name__ == "__main__":
     )
     final_hash = sha256_compress(msg_block, initial_hash)
     print("SHA-256 Hash (final):", final_hash.hex())
-
+```
+### Output
+'''python
+ba7816bf8f01cfea414140de5dae2223b00361a396177a9cb410ff61f20015ad
+```
